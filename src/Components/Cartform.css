@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #282c34;
+  
 }
 article {
   display: flex;
@@ -8,6 +8,7 @@ article {
   align-items: center;
   flex-direction: column;
   flex-wrap: wrap;
+  text-align: center;
 }
 .App-logo {
   height: 40vmin;
